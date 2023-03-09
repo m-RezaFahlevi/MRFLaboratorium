@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MRF Laboratorium",
+    "section": "",
+    "text": "Welcome to MRF Laboratorium\nMRF Laboratorium is personal website as a repository of my works, thoughts, and tricks & tips written in the form of an articles. The goals of this website is to provide a high quality content and trusted articles for computer science’s stuff like algorithms and technology.\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 24, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\narticle\n\n\nalgorithm\n\n\n\n\n\n\n\n\n\n\n\nFeb 21, 2023\n\n\nMuhammad Reza Fahlevi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Introduction\nThis is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris neque diam, ultrices at mollis ut, aliquam sed magna. Curabitur at metus fringilla, sollicitudin nibh quis, aliquet purus. Donec consectetur nisi feugiat sem imperdiet placerat. Vivamus libero libero, pellentesque nec tristique sed, finibus vel nibh. Nunc convallis porta porttitor. Mauris non lectus hendrerit, accumsan lorem et, consequat nulla. Integer sem sem, venenatis quis tempor at, hendrerit at nisl. Quisque luctus varius nulla sed auctor. Curabitur at neque velit. Quisque ornare mauris ac metus feugiat, iaculis pellentesque ex porttitor. Integer vehicula aliquam mi vitae eleifend. Donec neque enim, suscipit mattis consectetur id, pharetra non lacus.\n\n\nSection 1\nInteger commodo vulputate ligula sit amet mattis. Ut metus elit, vestibulum at enim vitae, efficitur imperdiet ligula. Donec rutrum, sem a vulputate tempor, ante quam consequat lacus, id efficitur erat dui sit amet lacus. Vivamus convallis dictum risus, et laoreet est volutpat id. Duis volutpat sapien aliquet purus malesuada, in gravida odio ultrices. Donec at maximus ligula, et tincidunt odio. Mauris ac neque ut urna consequat ultricies a vel mauris. In maximus congue justo at aliquam. Praesent a enim justo. Vivamus consectetur turpis vitae pretium facilisis. Proin porttitor purus eget varius consequat. Proin at ligula quis velit vestibulum malesuada lobortis vitae nisl.\n\n\nSection 2\nAenean venenatis neque nunc, sit amet pretium ex volutpat non. Sed et fringilla leo. Vestibulum id quam et risus pharetra molestie. Curabitur ut iaculis felis. Sed dui purus, ultricies non elementum ut, tincidunt non nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc fermentum varius elit. Phasellus id cursus est, sit amet bibendum dolor. Quisque vel elit sed nisl molestie commodo.\nVivamus blandit justo in nisl ullamcorper luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porta interdum ante et pharetra. Etiam consectetur dui sem, at lacinia neque maximus nec. Donec cursus dui urna, sit amet dictum lorem rutrum et. Donec id sapien interdum, tempor turpis sagittis, convallis lorem. Donec id nunc dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec tempus posuere ullamcorper. Aenean mattis, lorem in cursus laoreet, risus mauris dapibus tellus, quis fermentum nulla tortor feugiat orci. Cras fermentum ex ac mi lacinia feugiat.\n\n\nConclusion\nQuisque posuere porttitor posuere. Proin congue vitae orci id tempor. Aenean commodo tincidunt odio non malesuada. Proin ullamcorper, enim at tempus laoreet, odio lectus pellentesque libero, et tristique nisi est eu est. Sed dictum auctor elit, vel pulvinar libero dignissim eget. Duis vehicula eu felis sed pharetra. Nunc feugiat, lacus vel facilisis ornare, massa erat pretium nunc, et sollicitudin lacus nisl eget mauris. In non ipsum nec velit ultrices eleifend ac sit amet nunc. Cras urna nisl, aliquet vel facilisis eu, dignissim sed tortor."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "",
+    "text": "Contact Me Via Email\n    \n    \n        \n        Instagram\n    \n    \n        \n        Linkedin\n    \n    \n        \n        Github\n📱 (+62) 812-7548-0237 🇮🇩\nFounder of MRF Laboratorium website | Computer Science Alumnus | Lifelong Learner"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Education",
+    "text": "Education\n\n  \n\nUniversity of Sumatera Utara (Kota Medan, Sumatera Utara, Indonesia) August \\(2018 - 2022\\)\nBachelor of Computer Science (Sarjana Ilmu Komputer - \\(\\text{S.Kom.}\\))\nFavorite classes: Heuristic Method | Design & Analysis of Algorithms | Artificial Intelligence | Probability and Statistics | Numerical Analysis | Image Processing | Modelling Technique and Simulation | Calculus | Discrete Mathematics | Automata — Grammar and Language"
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Research",
+    "text": "Research\n\nPublished:\n\nMuhammad Reza Fahlevi, & Budiman, M. A. (2021). Computing the Value of Pi in the Manner of Lambda Function with R Statistical Programming Lan- guage. Data Science: Journal of Computing and Applied Informatics, 5(1), 39-48. https://doi.org/10.32734/jocai.v5.i1-5556"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\nBadan Pusat Statistik Kab. Kampar \\(-\\) Software Developer Intern. Build a software for Desa Cinta Statistik Desa Laboy Jaya using R Shiny framework (Jul - Aug \\(2021\\))"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Projects",
+    "text": "Projects\n\n\n ShinyImageProcessing : An R shiny image processing app simulation contain bluring, RGB filtering, Median filtering, 3 × 3 kernel convolution, generate 3 type of noise in images, and edge detection\nRCGA: A real-coded genetic algorithm for solving real-parameter optimization problem for function in R3 , written in R and Python\n ilkom : R packages to find critical value of statistics z, t, χ2 , and f for dynamic significance level by using heuristics procedure based on binary search, bisection method, and tabu search\nVNS: Minimizing error sum of square (SSE) of multi-linear regression model using Variable Neighborhood Search for continuous optimization problem.\nTSP: Solving Travelling Salesman Problem (TSP) by using Simulated Annealing (SA) and Tabu Search (TS) algorithm."
+  },
+  {
+    "objectID": "about.html#technical-skills-and-interest",
+    "href": "about.html#technical-skills-and-interest",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Technical Skills and Interest",
+    "text": "Technical Skills and Interest\n\n\nLanguages: R | Python | Julia | C++ | Rcpp | LaTeX | MySQL | Javascript | HTML | CSS | Bootstrap | Java\nSoftware & Tools: RStudio | Visual Studio Code | Lyx High Level Latex Frontend | VIM | R Shiny | dplyr | ggplot2 | plotly | pandas | Jupyter Lab\nCurrent Interest: (Meta) Heuristics Method | Probability & Statistics | Data Analysis | Design & Analysis Algorithm | Pattern Recognition & Machine Learning | Deep Neural Evolution\nAwards: Participant in Province Science Olympiad for Chemistry, year 2017 | Participant in Province English Debate Competition, year 2017"
+  },
+  {
+    "objectID": "about.html#my-skill-set",
+    "href": "about.html#my-skill-set",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "My Skill Set",
+    "text": "My Skill Set\n\n\n\n\nWeb Development :\n\n\n\n\n  \n\nBootstrap\n\n\n\n  \n\nCSS\n\n\n\n  \n\nJavascript\n\n\n\n  \n\nHTML5\n\n\n\n\n\n  \n\nGit\n\n\n\n  \n\nGitHub\n\n\n\n  \n\nBash\n\n\n\n  \n\nXAMPP\n\n\n\n\n\n  \n\nMySQL\n\n\n\n  \n\nShiny\n\n\n\n\n\nComputation :\n\n\n\n\n  \n\nC++\n\n\n\n  \n\nR\n\n\n\n  \n\nPython\n\n\n\n  \n\nJava\n\n\n\n\n\n  \n\nJulia\n\n\n\n  \n\nOctave\n\n\n\n  \n\nRcpp\n\n\n\n  \n\nOpenCV\n\n\n\n\n\nWriting :\n\n\n\n\n  \n\nLaTeX\n\n\n\n  \n\nTeXstudio\n\n\n\n  \n\nLyX\n\n\n\n  \n\nRStudio\n\n\n\n\n\nOperating System :\n\n\n\n\n  \n\nFedora Linux\n\n\n\n  \n\nWindows 10"
+  },
+  {
+    "objectID": "about.html#connect-with-me",
+    "href": "about.html#connect-with-me",
+    "title": "Muhammad Reza Fahlevi",
+    "section": "Connect with me",
+    "text": "Connect with me"
+  },
+  {
+    "objectID": "about.html#github-stats",
+    "href": "about.html#github-stats",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Github Stats",
+    "text": "Github Stats\n\n\n\n\n\nThank you for your time and attention for visit my website. The following are short description about my curriculum vitae."
+  },
+  {
+    "objectID": "about.html#recent-blog-posts",
+    "href": "about.html#recent-blog-posts",
+    "title": "Muhammad Reza Fahlevi",
+    "section": "Recent Blog Posts",
+    "text": "Recent Blog Posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi there! I am Muhammad Reza Fahlevi, a computer science alumnus and creator of this website. Thank you for your time and attention for visit my website. The following are short description about my curriculum vitae.\n\n\n## Education\n\n\n\n\nUniversity of Sumatera Utara (Kota Medan, Sumatera Utara, Indonesia) August \\(2018 - 2022\\)\nBachelor of Computer Science (Sarjana Ilmu Komputer - \\(\\text{S.Kom.}\\))\nFavorite classes: Heuristic Method | Design & Analysis of Algorithms | Artificial Intelligence | Probability and Statistics | Numerical Analysis | Image Processing | Modelling Technique and Simulation | Calculus | Discrete Mathematics | Automata — Grammar and Language"
+  },
+  {
+    "objectID": "about.html#welcome-honourable-reader-i-am-m.-r.-fahlevi-a-textitcum-laude-computer-science-fresh-graduate",
+    "href": "about.html#welcome-honourable-reader-i-am-m.-r.-fahlevi-a-textitcum-laude-computer-science-fresh-graduate",
+    "title": "\n            Muhammad Reza Fahlevi\n        ",
+    "section": "Welcome honourable reader! I am M. R. Fahlevi, a \\(\\textit{cum laude}\\) computer science fresh graduate 👨‍🎓",
+    "text": "Welcome honourable reader! I am M. R. Fahlevi, a \\(\\textit{cum laude}\\) computer science fresh graduate 👨‍🎓\n\n🔭 I’m currently looking for scholarship and promoter for master or doctoral degree 🎓.\n📖 I’m currently learning and interested in Pattern Recognition and Machine Learning.\n📚 A long life learner.\n\n\n\n⚡ Fun fact: I like to compute a things from scratch. For example, computing pseudo random number generator, numerical algorithms, statistics, and (meta) heuristic algorithms.\n\n\n\n🏫 Ambition: Be a lecturer 👨‍🏫 is my ambition and I am determined to be one."
+  }
+]

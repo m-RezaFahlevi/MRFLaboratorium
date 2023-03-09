@@ -1,0 +1,40 @@
+/* css styles */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-image: url("RastCont.png");
+    background-size: 244px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-image: url("RastRast.png");
+    background-size: 100px;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+}
+
+.quarto-title-banner {
+    background-image: url("RastRast.png");
+    background-size: 100px;
+    background-attachment: fixed;
+}
+
+.quarto-container {
+    background-color: rgba(240, 240, 240, 0.88);
+}
+
+.quarto-title-meta {
+    background-color: rgba(240, 240, 240, 0.88);
+}
+
+.quarto-category {
+    background-color: rgba(44, 62, 80);
+    color: white ;
+    padding: 0.5pc !important;
+}
