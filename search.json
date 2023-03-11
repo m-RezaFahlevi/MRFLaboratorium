@@ -31,29 +31,29 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
-    "section": "Education",
-    "text": "Education\n\n  \n\nUniversity of Sumatera Utara (Kota Medan, Sumatera Utara, Indonesia) August \\(2018 - 2022\\)\nBachelor of Computer Science (Sarjana Ilmu Komputer - \\(\\text{S.Kom.}\\))\nFavorite classes: Heuristic Method | Design & Analysis of Algorithms | Artificial Intelligence | Probability and Statistics | Numerical Analysis | Image Processing | Modelling Technique and Simulation | Calculus | Discrete Mathematics | Automata — Grammar and Language"
+    "section": " Education",
+    "text": "Education\n\n\n    \n\n\nUniversity of Sumatera Utara (Kota Medan, Sumatera Utara, Indonesia) August \\(2018 - 2022\\)\nBachelor of Computer Science (Sarjana Ilmu Komputer - \\(\\text{S.Kom.}\\))\n\\(\\text{GPA (IPK)} \\colon 3.56 \\text{ } (3,56)\\)\nFavorite classes: Heuristic Method | Design & Analysis of Algorithms | Artificial Intelligence | Probability and Statistics | Numerical Analysis | Image Processing | Modelling Technique and Simulation | Calculus | Discrete Mathematics | Automata — Grammar and Language"
   },
   {
     "objectID": "about.html#research",
     "href": "about.html#research",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
-    "section": "Research",
+    "section": " Research",
     "text": "Research\n\nPublished:\n\nMuhammad Reza Fahlevi, & Budiman, M. A. (2021). Computing the Value of Pi in the Manner of Lambda Function with R Statistical Programming Lan- guage. Data Science: Journal of Computing and Applied Informatics, 5(1), 39-48. https://doi.org/10.32734/jocai.v5.i1-5556"
   },
   {
     "objectID": "about.html#work-experience",
     "href": "about.html#work-experience",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
-    "section": "Work Experience",
+    "section": " Work Experience",
     "text": "Work Experience\n\n\nBadan Pusat Statistik Kab. Kampar \\(-\\) Software Developer Intern. Build a software for Desa Cinta Statistik Desa Laboy Jaya using R Shiny framework (Jul - Aug \\(2021\\))"
   },
   {
     "objectID": "about.html#projects",
     "href": "about.html#projects",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
-    "section": "Projects",
-    "text": "Projects\n\n\n ShinyImageProcessing : An R shiny image processing app simulation contain bluring, RGB filtering, Median filtering, 3 × 3 kernel convolution, generate 3 type of noise in images, and edge detection\nRCGA: A real-coded genetic algorithm for solving real-parameter optimization problem for function in R3 , written in R and Python\n ilkom : R packages to find critical value of statistics z, t, χ2 , and f for dynamic significance level by using heuristics procedure based on binary search, bisection method, and tabu search\nVNS: Minimizing error sum of square (SSE) of multi-linear regression model using Variable Neighborhood Search for continuous optimization problem.\nTSP: Solving Travelling Salesman Problem (TSP) by using Simulated Annealing (SA) and Tabu Search (TS) algorithm."
+    "section": " Projects",
+    "text": "Projects\n\n\n ShinyImageProcessing : An R shiny image processing app simulation contain bluring, RGB filtering, Median filtering, 3 × 3 kernel convolution, generate 3 type of noise in images, and edge detection.\nRCGA: A real-coded genetic algorithm for solving real-parameter optimization problem for function in R3 , written in R and Python.\n ilkom : R packages to find critical value of statistics z, t, χ2 , and f for dynamic significance level by using heuristics procedure based on binary search, bisection method, and tabu search.\nVNS: Minimizing error sum of square (SSE) of multi-linear regression model using Variable Neighborhood Search for continuous optimization problem.\nTSP: Solving Travelling Salesman Problem (TSP) by using Simulated Annealing (SA) and Tabu Search (TS) algorithm."
   },
   {
     "objectID": "about.html#technical-skills-and-interest",
@@ -66,8 +66,8 @@
     "objectID": "about.html#my-skill-set",
     "href": "about.html#my-skill-set",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
-    "section": "My Skill Set",
-    "text": "My Skill Set\n\n\n\n\nWeb Development :\n\n\n\n\n  \n\nBootstrap\n\n\n\n  \n\nCSS\n\n\n\n  \n\nJavascript\n\n\n\n  \n\nHTML5\n\n\n\n\n\n  \n\nGit\n\n\n\n  \n\nGitHub\n\n\n\n  \n\nBash\n\n\n\n  \n\nXAMPP\n\n\n\n\n\n  \n\nMySQL\n\n\n\n  \n\nShiny\n\n\n\n\n\nComputation :\n\n\n\n\n  \n\nC++\n\n\n\n  \n\nR\n\n\n\n  \n\nPython\n\n\n\n  \n\nJava\n\n\n\n\n\n  \n\nJulia\n\n\n\n  \n\nOctave\n\n\n\n  \n\nRcpp\n\n\n\n  \n\nOpenCV\n\n\n\n\n\nWriting :\n\n\n\n\n  \n\nLaTeX\n\n\n\n  \n\nTeXstudio\n\n\n\n  \n\nLyX\n\n\n\n  \n\nRStudio\n\n\n\n\n\nOperating System :\n\n\n\n\n  \n\nFedora Linux\n\n\n\n  \n\nWindows 10"
+    "section": " My Skill Set",
+    "text": "My Skill Set\n\n\n    \n        \n             Web Development :\n        \n        \n            \n                \n                    \n                \n                Bootstrap\n            \n            \n                \n                    \n                \n                CSS\n            \n            \n                \n                    \n                \n                Javascript\n            \n            \n                \n                    \n                \n                HTML5\n            \n        \n        \n            \n                \n                    \n                \n                Git\n            \n            \n                \n                    \n                \n                GitHub\n            \n            \n                \n                    \n                \n                Bash\n            \n            \n                \n                    \n                \n                XAMPP\n            \n        \n        \n            \n                \n                    \n                \n                MySQL\n            \n            \n                \n                    \n                \n                Shiny\n            \n        \n        \n             Computation :\n        \n        \n            \n                \n                    \n                \n                C++\n            \n            \n                \n                    \n                \n                R\n            \n            \n                \n                    \n                \n                Python\n            \n            \n                \n                    \n                \n                Java\n            \n        \n        \n            \n                \n                    \n                \n                Julia\n            \n            \n                \n                    \n                \n                Octave\n            \n            \n                \n                    \n                \n                Rcpp\n            \n            \n                \n                    \n                \n                OpenCV\n            \n        \n        \n             Writing :\n        \n        \n            \n                \n                    \n                \n                LaTeX\n            \n            \n                \n                    \n                \n                TeXstudio\n            \n            \n                \n                    \n                \n                LyX\n            \n            \n                \n                    \n                \n                RStudio\n            \n        \n        \n             Operating Systems :\n        \n        \n            \n                \n                   \n                \n                Fedora Linux\n            \n            \n                \n                   \n                \n                Windows 10"
   },
   {
     "objectID": "about.html#connect-with-me",
@@ -80,7 +80,7 @@
     "objectID": "about.html#github-stats",
     "href": "about.html#github-stats",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
-    "section": "Github Stats",
+    "section": " Github Stats",
     "text": "Github Stats\n\n\n    \n \n\nThank you for your time and attention for visit my website. The following are short description about my curriculum vitae."
   },
   {
@@ -95,6 +95,6 @@
     "href": "about.html#welcome-honourable-reader-i-am-m.-r.-fahlevi-a-textitcum-laude-computer-science-fresh-graduate",
     "title": "\n            Muhammad Reza Fahlevi\n        ",
     "section": "Welcome honourable reader! I am M. R. Fahlevi, a \\(\\textit{cum laude}\\) computer science fresh graduate 👨‍🎓",
-    "text": "Welcome honourable reader! I am M. R. Fahlevi, a \\(\\textit{cum laude}\\) computer science fresh graduate 👨‍🎓\n\n🔭 I’m currently looking for scholarship and promoter for master or doctoral degree 🎓.\n📖 I’m currently learning and interested in Pattern Recognition and Machine Learning\n📚 A long life learner.\n\n\n\n⚡ Fun fact: I like to compute a things from scratch. For example, computing pseudo random number generator, numerical algorithms, statistics, and (meta) heuristic algorithms.\n\n\n\n🏫 Ambition: Be a lecturer 👨‍🏫 is my ambition and I am determined to be one."
+    "text": "Welcome honourable reader! I am M. R. Fahlevi, a \\(\\textit{cum laude}\\) computer science fresh graduate 👨‍🎓\n\n🔭 I’m currently looking for scholarship and promoter for master or doctoral degree 🎓.\n📖 I’m currently learning and interested in Pattern Recognition and Machine Learning\n📚 A long life learner.\n💻 Hobby: Beside reading, writing, and research, I like to compute a things from scratch. For example, computing pseudo random number generator, numerical algorithms, statistics, and (meta) heuristic algorithms.\n⚡ Fun fact: The initial motive of developing this website is to get attention of the promoter of Pendidikan Magister menuju Doktor untuk Sarjana Unggul (PMDSU) scholarship (beasiswa PMDSU). So, I may look appeal to the promoter.\n🏫 Ambition: Be a lecturer 👨‍🏫 is my ambition and I am determined to be one."
   }
 ]
